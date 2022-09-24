@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 0;
+  color: #111111;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+img[src$=".jpg"]{
+  border-radius: 4px;
+}
+
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+ul {
+  padding: 0;
+  list-style: none;
+}
