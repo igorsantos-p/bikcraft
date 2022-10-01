@@ -1,3 +1,3 @@
 <?
-echo "teste"
+echo "teste";
 ?>
